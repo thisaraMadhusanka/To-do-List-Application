@@ -1,0 +1,11 @@
+/* existing styles here */
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.edit-btn, .delete-btn {
+    cursor: pointer;
+}
